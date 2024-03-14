@@ -30,3 +30,9 @@
   font-size: 20px;
   font-family: fantasy;
 }
+.refleshDiv {
+  text-align: center;
+  border: 2px solid lightgreen;
+  border-radius: 20px;
+  padding: 20px;
+}
